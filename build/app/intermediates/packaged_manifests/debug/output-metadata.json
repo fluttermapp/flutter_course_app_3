@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "artifactType": {
+    "type": "PACKAGED_MANIFESTS",
+    "kind": "Directory"
+  },
+  "applicationId": "com.fluttermapp.flutter_app_third",
+  "variantName": "debug",
+  "elements": [
+    {
+      "type": "SINGLE",
+      "filters": [],
+      "versionCode": 1,
+      "versionName": "1.0.0",
+      "outputFile": "AndroidManifest.xml"
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+#Sat Feb 26 16:29:51 JST 2022
+base.0=/Users/markryo/StudioProjects/flutter_course_app_3/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

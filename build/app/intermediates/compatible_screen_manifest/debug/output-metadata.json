@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "artifactType": {
+    "type": "COMPATIBLE_SCREEN_MANIFEST",
+    "kind": "Directory"
+  },
+  "applicationId": "com.fluttermapp.flutter_app_third",
+  "variantName": "debug",
+  "elements": []
+}
